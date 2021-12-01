@@ -10,8 +10,8 @@ const CONFIG = {
     question:'Nói cho Anh biết đi vì sao Em thích anh đi??? :>>>',
     reasonPlaceholder: 'Lý do',
     btnReply: 'Gửiii ! <333',
-    reply: 'Tại vì anh đẹp trai đó Ahiiiii ',
-    mess: 'Anh biết mà, Anh cũng thích em lắm,Hà. Yêu Em Kkkkk',
+    reply: 'Tại vì em cũng thích anh đó :3 ',
+    mess: 'Anh biết mà, Anh cũng thích em lắm. Yêu Em Kkkkk',
     messDesc: ' Nhắn tin cho Anh nhéeeee. ',
     btnAccept: 'Ok lun ',
     messLink: 'https://m.me/100007533932869'
