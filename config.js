@@ -11,8 +11,8 @@ const CONFIG = {
     reasonPlaceholder: 'Lý do',
     btnReply: 'Gửiii ! <333',
     reply: 'Tại vì anh đẹp trai đó Ahiiiii ',
-    mess: 'Anh biết mà, Anh cũng thích em lắm . Yêu Em Kkkkk',
+    mess: 'Anh biết mà, Anh cũng thích em lắm,Hà. Yêu Em Kkkkk',
     messDesc: ' Nhắn tin cho Anh nhéeeee. ',
     btnAccept: 'Ok lun ',
-    messLink: 'https://m.me/letienthanh423'
+    messLink: 'https://m.me/100007533932869'
 }
